@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @pattarapon044
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning Software engineering program
-
-# Hello world
-```
-Welcome to my world
-```
-
 ## About me
-### Describe
+### Contact me
+[Instgram](https://www.instagram.com/dizexrt/)
+[Gmail](6431503044@lamduan.mfu.ac.th)
+[Facebook](https://www.facebook.com/Eart.Pattarapon.2640/)
 
-```
-I know you are seeing me
-```
